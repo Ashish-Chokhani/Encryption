@@ -2,7 +2,7 @@
 
 ## Overview
 
-Encryption is a web application where users can register, login, and share their secrets anonymously. Users can also sign in using Google OAuth. The application is built using Node.js, Express.js, and MongoDB. EJS is used as the templating engine to render the views.
+Encryption is a web application where users can register, login, and share their secrets anonymously. Users can also sign in using Google OAuth. The application is built using Node.js, Express.js, and MongoDB. EJS is used as the templating engine to render the views. This web app allows you to provide various levels of encryption such as hashing, salting, Google authentication, etc., which you can add as per requirement to keep your data safe and secure.
 
 ## Table of Contents
 
