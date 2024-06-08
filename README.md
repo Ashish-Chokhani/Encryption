@@ -17,11 +17,10 @@ Encryption is a web application where users can register, login, and share their
 1. Clone the repository
     ```sh
     git clone https://github.com/Ashish-Chokhani/Encryption.git
-    cd secrets
     ```
 2. Navigate to the project directory:
     ```sh
-    cd secrets
+    cd Encryption
     ```
 
 2. Install dependencies
