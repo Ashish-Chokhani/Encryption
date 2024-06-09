@@ -7,9 +7,9 @@ Encryption is a web application where users can register, login, and share their
 ## Table of Contents
 
 - [Overview](#overview)
-- [Directory Structure](#directory-structure)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
+- [Directory Structure](#directory-structure)
 - [Contribution](#contribution)
 
 ## Installation and Setup
